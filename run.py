@@ -1,2 +1,2 @@
-import copypage*
+import copypage
 x()
